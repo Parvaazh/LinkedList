@@ -1,2 +1,2 @@
 # DSA
-This repository contains my Java solutions to LeetCode problems, categorized by DSA patterns such as Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, Sliding Window, and more. It showcases my problem-solving approach, consistency, and continuous learning for opportunities
+Comprehensive implementations of Linked List algorithms, covering fundamental operations, pointer techniques, reversal, merging, cycle detection, and interview-focused problem-solving patterns.
